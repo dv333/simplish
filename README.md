@@ -1,5 +1,7 @@
 # Simplish
 
+![Simplish: a tangled line with scattered jargon straightens into one clear line that connects simple words, clear connections, and useful practice](assets/simplish-banner.svg)
+
 **Simple words. Clear connections. Useful practice.**
 
 Simplish is a reusable AI skill for explaining unfamiliar or complex subjects. It helps the reader find the main idea, follow the reasoning, and practise when learning is the goal.

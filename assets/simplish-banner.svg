@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-labelledby="t d">
+  <title id="t">Simplish</title>
+  <desc id="d">A tangled line with scattered jargon on the left straightens into one clear line that connects three points: simple words, clear connections, and useful practice.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#3b0764"/>
+    </linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="1130" y2="0">
+      <stop offset="0" stop-color="#f43f5e"/>
+      <stop offset="0.3" stop-color="#fb7185"/>
+      <stop offset="0.5" stop-color="#fbbf24"/>
+      <stop offset="0.75" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.66" r="0.6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <rect width="1280" height="640" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="28" fill="url(#glow)"/>
+  <circle cx="656" cy="161" r="1.5" fill="#ffffff" opacity="0.38"/>
+  <circle cx="840" cy="169" r="1" fill="#ffffff" opacity="0.37"/>
+  <circle cx="836" cy="162" r="1" fill="#ffffff" opacity="0.40"/>
+  <circle cx="837" cy="231" r="2" fill="#ffffff" opacity="0.23"/>
+  <circle cx="1142" cy="86" r="1" fill="#ffffff" opacity="0.36"/>
+  <circle cx="878" cy="208" r="1" fill="#ffffff" opacity="0.16"/>
+  <circle cx="1217" cy="40" r="1" fill="#ffffff" opacity="0.35"/>
+  <circle cx="680" cy="173" r="2" fill="#ffffff" opacity="0.32"/>
+  <circle cx="1188" cy="125" r="2" fill="#ffffff" opacity="0.39"/>
+  <circle cx="575" cy="118" r="1" fill="#ffffff" opacity="0.16"/>
+  <circle cx="639" cy="262" r="2" fill="#ffffff" opacity="0.34"/>
+  <circle cx="1137" cy="131" r="2" fill="#ffffff" opacity="0.28"/>
+  <circle cx="887" cy="128" r="1" fill="#ffffff" opacity="0.37"/>
+  <circle cx="1002" cy="253" r="1.5" fill="#ffffff" opacity="0.40"/>
+  <circle cx="994" cy="69" r="1.5" fill="#ffffff" opacity="0.39"/>
+  <circle cx="1176" cy="167" r="1" fill="#ffffff" opacity="0.30"/>
+  <circle cx="1241" cy="94" r="1" fill="#ffffff" opacity="0.14"/>
+  <circle cx="1136" cy="268" r="1" fill="#ffffff" opacity="0.22"/>
+  <circle cx="522" cy="245" r="1" fill="#ffffff" opacity="0.20"/>
+  <circle cx="1070" cy="239" r="1" fill="#ffffff" opacity="0.29"/>
+  <circle cx="1064" cy="121" r="1.5" fill="#ffffff" opacity="0.27"/>
+  <circle cx="1189" cy="97" r="1" fill="#ffffff" opacity="0.40"/>
+  <circle cx="712" cy="48" r="1" fill="#ffffff" opacity="0.39"/>
+  <circle cx="1228" cy="100" r="1.5" fill="#ffffff" opacity="0.16"/>
+  <circle cx="503" cy="238" r="1.5" fill="#ffffff" opacity="0.22"/>
+  <circle cx="578" cy="237" r="2" fill="#ffffff" opacity="0.25"/>
+  <circle cx="876" cy="185" r="1" fill="#ffffff" opacity="0.29"/>
+  <circle cx="1204" cy="152" r="2" fill="#ffffff" opacity="0.30"/>
+  <circle cx="1028" cy="255" r="2" fill="#ffffff" opacity="0.39"/>
+  <circle cx="876" cy="162" r="1" fill="#ffffff" opacity="0.34"/>
+  <circle cx="1240" cy="106" r="2" fill="#ffffff" opacity="0.29"/>
+  <circle cx="963" cy="44" r="1.5" fill="#ffffff" opacity="0.25"/>
+  <circle cx="1000" cy="115" r="1.5" fill="#ffffff" opacity="0.33"/>
+  <circle cx="487" cy="45" r="1" fill="#ffffff" opacity="0.39"/>
+  <circle cx="666" cy="140" r="1.5" fill="#ffffff" opacity="0.17"/>
+  <circle cx="614" cy="212" r="1.5" fill="#ffffff" opacity="0.20"/>
+  <circle cx="764" cy="215" r="1" fill="#ffffff" opacity="0.39"/>
+  <circle cx="1003" cy="62" r="1" fill="#ffffff" opacity="0.30"/>
+  <circle cx="680" cy="109" r="2" fill="#ffffff" opacity="0.30"/>
+  <circle cx="546" cy="174" r="1.5" fill="#ffffff" opacity="0.31"/>
+  <circle cx="645" cy="224" r="1" fill="#ffffff" opacity="0.14"/>
+  <circle cx="1049" cy="82" r="2" fill="#ffffff" opacity="0.20"/>
+  <circle cx="1084" cy="38" r="1" fill="#ffffff" opacity="0.21"/>
+  <circle cx="1122" cy="168" r="1.5" fill="#ffffff" opacity="0.22"/>
+  <circle cx="1116" cy="51" r="1.5" fill="#ffffff" opacity="0.29"/>
+  <circle cx="799" cy="154" r="1.5" fill="#ffffff" opacity="0.25"/>
+  <text x="72" y="158" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="112" letter-spacing="-3" fill="url(#title)">Simplish</text>
+  <text x="76" y="212" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="500" font-size="30" fill="#cbd5e1">Turn a tangled subject into one clear line of thought.</text>
+  <text x="62" y="300" transform="rotate(-14 62 300)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">obviating</text>
+  <text x="300" y="292" transform="rotate(9 300 292)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">heretofore</text>
+  <text x="40" y="505" transform="rotate(11 40 505)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">auxiliary</text>
+  <text x="318" y="572" transform="rotate(-7 318 572)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">logarithmic</text>
+  <text x="150" y="596" transform="rotate(4 150 596)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">amortized</text>
+  <text x="388" y="352" transform="rotate(16 388 352)" font-family="Georgia, serif" font-style="italic" font-size="19" fill="#fb7185" opacity="0.5">thereby</text>
+  <path d="M205.5,472.2 C205.4,458.7 215.3,402.1 204.9,391.4 C194.4,380.7 120.8,397.3 142.8,408.1 C164.9,418.9 305.3,450.2 337.2,456.2 C369.1,462.2 342.8,446.1 334.1,444.0 C325.4,442.0 322.0,438.6 285.1,443.8 C248.3,449.0 112.3,471.0 113.0,475.1 C113.8,479.1 286.3,490.5 289.7,468.1 C293.1,445.8 156.8,354.3 133.2,341.0 C109.6,327.8 123.7,375.4 148.3,388.5 C172.8,401.6 257.1,422.3 280.5,419.5 C304.0,416.8 290.3,364.6 288.9,371.9 C287.5,379.1 289.4,437.2 272.2,463.0 C255.1,488.8 184.1,519.0 186.0,526.7 C188.0,534.5 286.1,536.2 284.1,509.5 C282.0,482.8 189.8,382.6 173.7,366.6 C157.7,350.5 165.8,399.9 187.5,413.3 C209.3,426.6 303.4,457.0 304.2,446.8 C305.0,436.5 211.3,340.9 192.1,351.6 C172.9,362.3 195.9,495.4 189.2,510.9 C182.5,526.5 138.5,475.7 151.9,445.1 C165.4,414.6 255.3,315.4 269.9,327.5 C284.4,339.6 268.3,504.3 239.3,517.6 C210.3,530.8 98.5,433.9 95.9,407.2 C93.4,380.5 190.8,355.4 224.0,357.3 C257.2,359.3 312.2,399.1 294.9,419.0 C277.7,438.9 120.1,464.1 120.5,476.8 C120.8,489.5 258.0,499.9 297.2,495.3 C336.3,490.7 364.0,476.3 355.4,449.2 C346.8,422.2 255.2,345.2 245.6,332.9 C236.0,320.5 306.1,374.5 297.8,375.1 C289.4,375.7 221.1,334.8 195.4,336.4 C169.7,338.1 123.9,386.5 143.6,384.9 C163.2,383.2 271.3,324.7 313.2,326.4 C355.1,328.1 373.9,378.6 395.0,395.0 C416.1,411.4 423.3,420.0 440.0,425.0 C456.7,430.0 485.8,425.0 495.0,425.0 L1130,425" fill="none" stroke="url(#line)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" filter="url(#blur)"/>
+  <path d="M205.5,472.2 C205.4,458.7 215.3,402.1 204.9,391.4 C194.4,380.7 120.8,397.3 142.8,408.1 C164.9,418.9 305.3,450.2 337.2,456.2 C369.1,462.2 342.8,446.1 334.1,444.0 C325.4,442.0 322.0,438.6 285.1,443.8 C248.3,449.0 112.3,471.0 113.0,475.1 C113.8,479.1 286.3,490.5 289.7,468.1 C293.1,445.8 156.8,354.3 133.2,341.0 C109.6,327.8 123.7,375.4 148.3,388.5 C172.8,401.6 257.1,422.3 280.5,419.5 C304.0,416.8 290.3,364.6 288.9,371.9 C287.5,379.1 289.4,437.2 272.2,463.0 C255.1,488.8 184.1,519.0 186.0,526.7 C188.0,534.5 286.1,536.2 284.1,509.5 C282.0,482.8 189.8,382.6 173.7,366.6 C157.7,350.5 165.8,399.9 187.5,413.3 C209.3,426.6 303.4,457.0 304.2,446.8 C305.0,436.5 211.3,340.9 192.1,351.6 C172.9,362.3 195.9,495.4 189.2,510.9 C182.5,526.5 138.5,475.7 151.9,445.1 C165.4,414.6 255.3,315.4 269.9,327.5 C284.4,339.6 268.3,504.3 239.3,517.6 C210.3,530.8 98.5,433.9 95.9,407.2 C93.4,380.5 190.8,355.4 224.0,357.3 C257.2,359.3 312.2,399.1 294.9,419.0 C277.7,438.9 120.1,464.1 120.5,476.8 C120.8,489.5 258.0,499.9 297.2,495.3 C336.3,490.7 364.0,476.3 355.4,449.2 C346.8,422.2 255.2,345.2 245.6,332.9 C236.0,320.5 306.1,374.5 297.8,375.1 C289.4,375.7 221.1,334.8 195.4,336.4 C169.7,338.1 123.9,386.5 143.6,384.9 C163.2,383.2 271.3,324.7 313.2,326.4 C355.1,328.1 373.9,378.6 395.0,395.0 C416.1,411.4 423.3,420.0 440.0,425.0 C456.7,430.0 485.8,425.0 495.0,425.0 L1130,425" fill="none" stroke="url(#line)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="600" cy="425" r="58" fill="#fbbf24" opacity="0.16"/>
+  <circle cx="600" cy="425" r="44" fill="#fbbf24" opacity="0.22"/>
+  <circle cx="600" cy="425" r="32" fill="#fbbf24"/>
+  <text x="600" y="436" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#0b1026">Aa</text>
+  <text x="600" y="533" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="25" fill="#f1f5f9">Simple words</text>
+  <circle cx="865" cy="425" r="58" fill="#34d399" opacity="0.16"/>
+  <circle cx="865" cy="425" r="44" fill="#34d399" opacity="0.22"/>
+  <circle cx="865" cy="425" r="32" fill="#34d399"/>
+  <g stroke="#0b1026" stroke-width="4" stroke-linecap="round" fill="#0b1026"><path d="M851,435 L865,413 L879,435" fill="none"/><circle cx="851" cy="435" r="5.5"/><circle cx="865" cy="413" r="5.5"/><circle cx="879" cy="435" r="5.5"/></g>
+  <text x="865" y="533" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="25" fill="#f1f5f9">Clear connections</text>
+  <circle cx="1130" cy="425" r="58" fill="#22d3ee" opacity="0.16"/>
+  <circle cx="1130" cy="425" r="44" fill="#22d3ee" opacity="0.22"/>
+  <circle cx="1130" cy="425" r="32" fill="#22d3ee"/>
+  <path d="M1115,426 L1126,437 L1146,414" fill="none" stroke="#0b1026" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1130" y="533" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="25" fill="#f1f5f9">Useful practice</text>
+</svg>
